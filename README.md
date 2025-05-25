@@ -17,7 +17,7 @@ bash
 ollama serve
 ```
 
-4. Cope repo:
+4. Copy repo:
 
 ```bash
 git clone https://github.com/KamranM5/test-task.git
