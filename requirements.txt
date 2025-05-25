@@ -1,0 +1,5 @@
+langgraph
+langchain-ollama
+python-dotenv
+langgraph-cli[inmem]
+langchain-core
