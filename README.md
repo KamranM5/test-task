@@ -27,7 +27,7 @@ git clone https://github.com/KamranM5/test-task.git
 
 ```bash
 python -m venv venv
-.\venv\Scripts\activate
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 6. Run the chatbot:
